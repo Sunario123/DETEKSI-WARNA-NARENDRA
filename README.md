@@ -118,17 +118,20 @@ g++ deteksi_kuning.cpp -o deteksi `pkg-config --cflags --libs opencv4`
 ```
 
 ## Contoh Output
-<div style="text-align: center;">
-  <img src="images/image.png" alt="Hasil Deteksi Warna" style="width: 60%;">
-  <p>Gambar 1</p>
-</div>
-<div style="text-align: center;">
-  <img src="images/Screenshot from 2025-11-03 15-09-46.png" alt="Hasil Deteksi Warna" style="width: 60%;">
-  <p>Gambar 2</p>
-</div>
-<div style="text-align: center;">
-  <img src="images/Screenshot from 2025-11-03 17-11-44.png" alt="Hasil Deteksi Warna" style="width: 60%;">
-  <p>Gambar 3</p>
-</div>
+<p align="center">
+  <img src="images/image.png" width="60%" alt="Hasil Deteksi Warna"><br>
+  <i>Gambar 1</i>
+</p>
+
+<p align="center">
+  <img src="images/Screenshot from 2025-11-03 15-09-46.png" width="60%" alt="Hasil Deteksi Warna"><br>
+  <i>Gambar 2</i>
+</p>
+
+<p align="center">
+  <img src="images/Screenshot from 2025-11-03 17-11-44.png" width="60%" alt="Hasil Deteksi Warna"><br>
+  <i>Gambar 3</i>
+</p>
+
 
 ## Terimakasih 
