@@ -1,0 +1,3 @@
+/home/narendraandhi/MAGANG/build/CMakeFiles/oprec.dir
+/home/narendraandhi/MAGANG/build/CMakeFiles/edit_cache.dir
+/home/narendraandhi/MAGANG/build/CMakeFiles/rebuild_cache.dir

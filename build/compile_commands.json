@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/narendraandhi/MAGANG/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/oprec.dir/src/kalibrasi_kamera.cpp.o -c /home/narendraandhi/MAGANG/src/kalibrasi_kamera.cpp",
+  "file": "/home/narendraandhi/MAGANG/src/kalibrasi_kamera.cpp"
+}
+]

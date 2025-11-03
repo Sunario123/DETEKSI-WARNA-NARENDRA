@@ -1,0 +1,5 @@
+[0.000000] (-) TimerEvent: {}
+[0.000460] (oprec) JobQueued: {'identifier': 'oprec', 'dependencies': OrderedDict()}
+[0.000510] (oprec) JobStarted: {'identifier': 'oprec'}
+[0.006361] (oprec) JobEnded: {'identifier': 'oprec', 'rc': 1}
+[0.016759] (-) EventReactorShutdown: {}
